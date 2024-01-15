@@ -1,4 +1,3 @@
-// import { UIScene } from './scenes/ui/index';
 import { BootScene, MenuScene, GameScene, WinScene, UiScene } from './scenes';
 import { Game } from 'phaser';
 
